@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+train-test.csv
+validation.csv
+validation-predictions-template.csv
+december-chart-inputs.csv
